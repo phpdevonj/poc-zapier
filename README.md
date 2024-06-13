@@ -16,11 +16,11 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone https://github.com/phpdevonj/poc-zapier.git
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd poc-zapier
 
 Install all the dependencies using composer
 
